@@ -2,7 +2,7 @@
 <h3 align="center">Member of HEXED🌟.</h3>
 
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://cdn.discordapp.com/attachments/1306701504593268769/1364645232754429973/IMG_6876.png?ex=680a6c69&is=68091ae9&hm=cace31b0d0a5c9bb6d961a61b854ffa817edb81e169dd9f98afebb6aca2b067b&)">
+    <img width="200" src="https://cdn.discordapp.com/attachments/1306701504593268769/1364645232754429973/IMG_6876.png?ex=680a6c69&is=68091ae9&hm=cace31b0d0a5c9bb6d961a61b854ffa817edb81e169dd9f98afebb6aca2b067b&">
 </p>
 
 <br>
