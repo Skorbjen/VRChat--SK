@@ -3,7 +3,8 @@
 
 <br>
 
-Hey i am a 
+Hey i am [Skorbjen](https://gun.lol/skorbjen) a Member of Hexed, the Founder of Nizo.
+
 
 
 📊 **This Week I Spent My Time On:**
