@@ -3,20 +3,16 @@
 
 <br>
 
-Hey i am [Skorbjen](https://gun.lol/skorbjen) a Member of Hexed, the Founder of Nizo.
+Hey i am [Skorbjen](https://gun.lol/skorbjen) the Founder of Nizo.
 
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
-C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-<!--END_SECTION:waka-->
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on somthing :wink:
+- 🌱 I’m currently learning Python and Java
+- 💬 When you need help, feel free to text me on [Discord](https://discord.gg/KhNHDg3m9h)
+- 📫 Member of Hexed
 
 <div align="center">
 <table>
