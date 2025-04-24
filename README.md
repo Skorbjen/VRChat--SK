@@ -56,3 +56,4 @@ Hey i am [Skorbjen](https://gun.lol/skorbjen) the Founder of Nizo.
 </table>
 </div>
 	  
+Latest update 24/04/2025
